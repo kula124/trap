@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "play-sound": "^1.1.3"
+  }
+}
